@@ -4,8 +4,7 @@ Specifically for BD Rhapsody data, using the BD pipeline as documented [here](ht
 
 ### Converting Fastqs
 
-Pull the BD pipeline docker image and download the BD human reference transcriptome
-
+Pull the BD pipeline docker image and download the BD human reference transcriptome:
 ```
 singularity pull fastqc.sif docker://bdgenomics_rhapsody:2.0.sif (run using srun if on KCL CREATE HPC)
 wget http://bd-rhapsody-public.s3-website-us-east-1.amazonaws.com/Rhapsody-WTA/Pipeline-version2.x_WTA_references/
