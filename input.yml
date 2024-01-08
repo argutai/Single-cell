@@ -1,0 +1,18 @@
+#!/usr/bin/env cwl-runner
+
+cwl:tool: rhapsody
+
+Reads:
+
+ - class: File
+   location: 
+
+ - class: File
+   location:
+
+Reference_Archive:
+  class: File
+  location:
+
+Generate_Bam: true
+Maximum_Threads: 48
