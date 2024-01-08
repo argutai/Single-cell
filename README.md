@@ -1,5 +1,5 @@
 # Single Cell analysis pipeline 
-Specifically for BD Rhapsody data, using the BD pipeline as documented [here](https://scomix.bd.com/hc/en-us/articles/360023044512-BD-AbSeq-Bioinformatics-Guides)
+Specifically for BD Rhapsody data, using the BD pipeline as documented [here](https://scomix.bd.com/hc/en-us/articles/360023044512-BD-AbSeq-Bioinformatics-Guides).
 
 
 ### Converting Fastqs
