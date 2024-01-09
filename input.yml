@@ -10,9 +10,20 @@ Reads:
  - class: File
    location:
 
+ - class: File
+   location: 
+
+ - class: File
+   location:
+
 Reference_Archive:
   class: File
   location:
+
+Sample_Tags_Version: human
+Tag_Names: [] 
+
+VDJ_Version: humanTCR
 
 Generate_Bam: true
 Maximum_Threads: 48
